@@ -4,7 +4,7 @@ import oplataImage from '../assets/images/проекты.png';
 
 function Oplata() {
   return (
-    <div class="image-container">
+    <div className="image-container">
       <center><img src={oplataImage} width="70%" alt="" /></center>
       <div className="text-overlay">
           <h1>оплата и телефоны</h1>
