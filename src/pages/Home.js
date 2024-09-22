@@ -4,7 +4,7 @@ import homeImage from '../assets/images/проекты.png';
 
 function Home() {
   return (
-    <div class="image-container">
+    <div className="image-container">
       <center><img src={homeImage} width="70%" alt="" /></center>
       <div className="text-overlay">
           <h1>Главная страница</h1>

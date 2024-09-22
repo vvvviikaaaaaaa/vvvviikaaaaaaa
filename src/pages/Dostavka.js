@@ -4,7 +4,7 @@ import dostavkaImage from '../assets/images/проекты.png';
 
 function Dostavka() {
   return (
-    <div class="image-container">
+    <div className="image-container">
       <center><img src={dostavkaImage} width="70%" alt="" /></center>
       <div className="text-overlay">
           <h1>доставка и помощь</h1>

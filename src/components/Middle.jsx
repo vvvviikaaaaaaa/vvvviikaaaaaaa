@@ -33,10 +33,10 @@ function Middle() {
                                 <Link to="/advantage">ПРЕИМУЩЕСТВО НАС</Link>
                             </li>
                             <li className="active">
-                                <Link to="/catalog">КАТАЛОГ ТОВАРОВ<span class="fas fa-caret-down first"></span></Link>
+                                <Link to="/catalog">КАТАЛОГ ТОВАРОВ<span className="fas fa-caret-down first"></span></Link>
                             </li>
                             <li className="active">
-                                <Link to="/dostavka">ДОСТАВКА И ПОМОЩЬ<span class="fas-first"></span></Link>
+                                <Link to="/dostavka">ДОСТАВКА И ПОМОЩЬ<span className="fas-first"></span></Link>
                             </li>
                             <li className="active">
                                 <Link to="/oplata">ОПЛАТА И ТЕЛЕФОНЫ</Link>
