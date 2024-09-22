@@ -5,7 +5,7 @@ import Middle from "./Middle";
 
 function Main() {
     return(
-        <table border="1" width="100%">
+        <table border="0" width="100%">
             <thead>
                 <tr>
                     <th colSpan="2">
